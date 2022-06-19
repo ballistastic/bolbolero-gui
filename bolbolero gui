@@ -1,0 +1,39 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("BOLBOLERO PINAG SAMA-SAMANG KATARANTADUHAN", "Ocean")
+local Tab = Window:NewTab("MAIN GUI'S ETC.")
+local Section = Tab:NewSection("JAKOL ME")
+Section:NewButton("JERICPREVAIL", "JERIC IS SO SEXY AND HOT", function()
+    print(loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))())
+end)
+
+Section:NewButton("JERINIUOS", "JERIC HAVE 13 INCHES FACTS", function()
+    print(loadstring(game:HttpGet("https://raw.githubusercontent.com/ballistastic/-Vynixius-Prison-Life/main/Vynixius%20Prison%20Life", true))())
+end)
+
+local Section = Tab:NewSection("TUBOL FLINGS")
+
+Section:NewButton("JERICNORMAL FLING", "IM THAT SEXY MADERPAKER", function()
+    print(loadstring(game:HttpGet("https://raw.githubusercontent.com/ballistastic/FLING/main/FLINGS", true))())
+end)
+
+Section:NewButton("CRAZY JERIC FLING", "NATATAE AKO PUNTA AKO BANYO PERO NONOOD PINAYFLIX", function()
+    print(loadstring(game:HttpGet("https://raw.githubusercontent.com/ballistastic/FLING/main/CRAZY%20FLING%20SKIN%20WALKER", true))())
+end)
+
+local Section = Tab:NewSection("OP JERICS PANG SEXY ADMIN")
+
+Section:NewButton("JERICEUS", "KUNG SEXY KA MAG HUBAD KA POST MO SISIKAT KA", function()
+    print(loadstring(game:HttpGet("https://raw.githubusercontent.com/ballistastic/ADMIN-ARCEUS/main/ADMIN%20ARCEUS", true))())
+end)
+
+Section:NewKeybind("BIND KEY TO HIDE GUI", "PUKI", Enum.KeyCode.V, function()
+	Library:ToggleUI()
+end)
+
+
+local Tab = Window:NewTab("CREDITS")
+local CREDITSSection = Tab:NewSection("CREDITS:")
+CREDITSSection:NewLabel("CREATED BY BALLISTASTIC GAMING")
+CREDITSSection:NewLabel("YT CHANNEL BALLISTASTIC GAMING")
+CREDITSSection:NewLabel("CHECK YT CHANNEL FOR UPDATES")
+
