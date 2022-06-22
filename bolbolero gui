@@ -3,7 +3,7 @@ local Window = Library.CreateLib("BOLBOLERO PINAG SAMA-SAMANG KATARANTADUHAN", "
 local Tab = Window:NewTab("MAIN GUI'S ETC.")
 local Section = Tab:NewSection("JAKOL ME")
 Section:NewButton("JERICPREVAIL", "JERIC IS SO SEXY AND HOT", function()
-    print(loadstring(game:HttpGet("https://pastebin.com/raw/mHfK0Xk4", true))())
+    print(loadstring(game:HttpGet("https://raw.githubusercontent.com/ballistastic/bolbolero-update-gui/main/update%20gui", true))())
 end)
 
 Section:NewButton("JERINIUOS", "JERIC HAVE 13 INCHES FACTS", function()
