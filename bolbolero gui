@@ -17,7 +17,7 @@ Section:NewButton("JERICNORMAL FLING", "IM THAT SEXY MADERPAKER", function()
 end)
 
 Section:NewButton("CRAZY JERIC FLING", "NATATAE AKO PUNTA AKO BANYO PERO NONOOD PINAYFLIX", function()
-    print(loadstring(game:HttpGet("https://raw.githubusercontent.com/ballistastic/FLING/094a07b7ebfea81702c2c55cdff498b4280ebbc4/CRAZY%20FLING%20SKIN%20WALKER", true))())
+    print(loadstring(game:HttpGet("https://raw.githubusercontent.com/ballistastic/FLING/main/CRAZY%20FLING%20SKIN%20WALKER", true))())
 end)
 
 local Section = Tab:NewSection("OP JERICS PANG SEXY ADMIN")
